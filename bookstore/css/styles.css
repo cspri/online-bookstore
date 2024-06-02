@@ -1,0 +1,28 @@
+body {
+    padding-top: 56px;
+    background-color: rgb(221, 166, 200);
+}
+
+.carousel-item img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+header{
+    background-color: #da72c5;
+
+}
+
+footer {
+    background-color: #da72c5;
+}
+
+.navbar .form-inline {
+    flex-grow: 1;
+    justify-content: flex-end;
+}
